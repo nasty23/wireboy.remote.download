@@ -24,4 +24,4 @@ jobs:
                 DOWNLOADURL: ${{ secrets.DOWNLOADURL }}
                 EMAILPASS: ${{ secrets.EMAILPASS }}
                 SENDEMAIL: ${{ secrets.SENDEMAIL }}
-                TOEMAIL: ${{ secrets.TOEMAIL }} 
+                TOEMAIL: ${{ secrets.TOEMAIL }}
